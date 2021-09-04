@@ -31,8 +31,8 @@
     text-align: center;
 }
 .video_sports video{
-    width: 900px;
-    height: 500px;
+    width: 1300px;
+    height: 730px;
 }
 ul.list{
     list-style: none;
@@ -59,3 +59,36 @@ li{
     margin:50px 850px 5px;
 }
 
+.dh .dh_img{
+    margin: 50px 540px 50px;
+    width: 800px;
+}
+.dh .definition_dh{
+    border: 3px rgb(0, 132, 255);
+    border-radius: 10px;
+    border-style: dotted dashed solid double;
+    font-size: 30px;
+    color: rgb(0, 132, 255);
+    text-align: center;
+    margin:50px 700px 5px;
+}
+.dh h2{
+    letter-spacing: 5px;
+    font-size: 30px;
+    color: rgb(0, 132, 255);
+}
+.dh p{
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+}
+.topics{
+    border-collapse: collapse;
+    color: black;
+    font-size: 24px;
+    border: 1px solid black;
+}
+.topics th,td{
+    padding: 15px;
+    border: 1px black solid;
+}
