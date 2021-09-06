@@ -76,9 +76,11 @@ li{
     letter-spacing: 5px;
     font-size: 30px;
     color: rgb(0, 132, 255);
+    margin-left: 300px;
 }
 .dh p{
     color: black;
+    padding: 20px 300px;
     text-align: justify;
     font-size: 20px;
 }
@@ -87,6 +89,9 @@ li{
     color: black;
     font-size: 24px;
     border: 1px solid black;
+}
+.topics{
+    margin: 20px 600px;
 }
 .topics th,td{
     padding: 15px;
