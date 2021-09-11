@@ -1,0 +1,75 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    text-align: center;
+    font-size: 42px;
+    letter-spacing: 2.5px;
+    color: white;
+    background-color:rgba(207, 35, 35, 0.897);
+}
+.video_body{
+    padding: 50px 0px;
+    text-align: center;
+    
+}
+.table_container{
+    margin: 10px 41%;
+}
+.table th{
+    text-align: center;
+    border: 1px black solid;
+    padding:5px;
+    color: white;
+    background-color: rgba(219, 19, 19, 0.883);
+}
+.table tr td{
+    text-align: left;
+    border: 1px black solid;
+    padding:5px;
+}
+.table tr td:hover{
+    background-color: rgba(177, 177, 177, 0.808);
+    font-size: 25px;
+}
+.table{
+    border-collapse: collapse;
+    font-size: 23px;
+    margin: 30px 5px;
+    width: 400px;
+} 
+.image{
+    text-align: center;
+    margin: 40px 0px;
+}
+.image img{
+    width: 800px;
+}
+
+.topics{
+    margin: 60px 450px;
+}
+.table1 th{
+    text-align: center;
+    border: 1px black solid;
+    padding:5px;
+    color: white;
+    background-color: rgba(219, 19, 19, 0.883);
+}
+.table1 tr td{
+    text-align: left;
+    border: 1px black solid;
+    padding:5px;
+}
+.table1 tr td:hover{
+    background-color: rgba(177, 177, 177, 0.808);
+}
+.table1{
+    border-collapse: collapse;
+    font-size: 23px;
+    margin: 30px 5px;
+    width: 1000px;
+}
+.table_subtitle{
+    color: rgb(245, 0, 0);
+}

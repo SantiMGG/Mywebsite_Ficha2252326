@@ -97,3 +97,7 @@ li{
     padding: 15px;
     border: 1px black solid;
 }
+[class^= "color"]{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-left: 3px rgb(212, 113, 0) solid;
+}

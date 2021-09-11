@@ -1,0 +1,25 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,h2{
+    color: blue;
+}
+.title3{
+    border-bottom: 2px black solid;
+}
+#identificador{
+    border-bottom: 2px purple dashed;
+}
+p.color{
+    color: grey;
+    font-style: italic;
+}
+article p{
+    color: green;
+}
+section, div, #nieto{
+    border: 1px dashed black;
+}
+section>p{
+    background-color: dodgerblue;
+}

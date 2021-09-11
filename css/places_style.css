@@ -1,0 +1,51 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.title{
+    text-align: center;
+    font-size: 42px;
+    letter-spacing: 2.5px;
+    color: white;
+    background-color:rgba(44, 158, 16, 0.849);
+}
+
+.right{
+    margin-left: 50%;
+    text-align: center;
+}
+.contenedor div{ 
+    margin-top: 60px;
+    text-align: center;
+    width: 45%;
+}
+.contenedor div>h2{
+    font-size: 30px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    margin: 10px 200px;
+    letter-spacing: 1px;
+}
+.contenedor div>img{
+    width: 650px;
+    border-radius: 20px;
+}
+.contenedor div>p{
+    font-size: 24px;
+    margin: 5px 200px;
+}
+.title::first-letter{
+    font-size: 80px;
+}
+
+.title::first-line{
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+.title::before{
+    content: url(https://www.w3schools.com/css/smiley.gif)
+}
+
+.title::selection{
+    background-color: rgb(255, 238, 0);
+    color: rgba(7, 146, 7, 0.733);
+}
